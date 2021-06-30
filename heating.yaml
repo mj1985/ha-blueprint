@@ -1,3 +1,4 @@
+# Original author: iwanttobeafriendofha @ https://community.home-assistant.io/t/automated-temperature-control-target-temperature-sensor-door-window-heat-once/272106
 blueprint:
   name: Automatisation of heat controll
   domain: automation
